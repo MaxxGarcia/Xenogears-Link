@@ -1,0 +1,8 @@
+{
+ "appId": "com.dualscreen.xenogears",
+ "productName": "Xenogears Link",
+ "directories": { "output": "../dist" },
+ "win": { "target": "portable", "icon": "icon.ico", "signAndEditExecutable": false },
+ "portable": { "requestExecutionLevel": "user", "unpackDirName": "XenogearsLink" },
+ "electronVersion": "33.2.1"
+}

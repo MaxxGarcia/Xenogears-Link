@@ -1,0 +1,19 @@
+# Built from your own disc or by the build scripts; never committed
+app/www/plan/
+app/www/maps/
+app/www/bundled.js
+app/www/img/
+app/www/spr/
+app/www/world/
+app/www/font.js
+android/assets/
+android/keystore.jks
+android/*.apk
+android/classes.dex
+windows/app/www/
+windows/dist/
+windows/cache/
+windows/node_modules/
+*.chd
+*.bin
+*.cue
